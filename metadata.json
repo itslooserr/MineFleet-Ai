@@ -1,0 +1,8 @@
+{
+  "name": "MineFleet Ai",
+  "description": "Interactive autonomous haulage and dynamic fleet dispatch simulator for open-pit mines. Compare legacy fixed dispatch vs AI dynamic routing with live truck movements, queue analytics, and ROI benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
